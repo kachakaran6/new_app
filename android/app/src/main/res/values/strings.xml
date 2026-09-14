@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CountSend</string>
+    <string name="accessibility_service_description">CountSend assists in typing live countdown messages into active messaging apps and optionally tapping the send button as configured by you.</string>
+</resources>
